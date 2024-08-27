@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 
 //import useparams
-import { useParams } from 'react-router-dom'
+import { useParams } from '`react-router-dom`'
 
 //import cart context
 import { CartContext } from '../contexts/CartContext';
