@@ -25,9 +25,6 @@ export default {
         primary: '#222222',
         secondary: '#F5E6E0',
       },
-      backgroundImage: {
-        hero: "url('./src/assets/bg_hero.svg')",
-      },
     },
   },
   plugins: [],
