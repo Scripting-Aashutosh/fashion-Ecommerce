@@ -1,7 +1,7 @@
 import React from 'react'
 
 //import Link
-import { Link } from 'react-router-dom';
+import { Link } from '`react-router-dom`';
 
 //import icons
 import { IoMdClose, IoMdRemove, IoMdAdd } from 'react-icons/io';
