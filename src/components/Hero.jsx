@@ -2,7 +2,7 @@ import React from 'react'
 
 import Model from '../assets/model.png';
 
-import { Link } from 'react-router-dom';
+import { Link } from '`react-router-dom`';
 
 const Hero = () => {
   return (
