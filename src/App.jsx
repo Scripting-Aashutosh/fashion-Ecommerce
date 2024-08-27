@@ -1,7 +1,7 @@
 import React from 'react';
 
 //import react router dom
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from '`react-router-dom`';
 
 //import the pages
 import Home from './pages/Home';
