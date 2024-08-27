@@ -11,7 +11,7 @@ import { CartContext } from '../contexts/CartContext';
 import { BsBag } from 'react-icons/bs';
 
 //import link
-import { Link } from 'react-router-dom';
+import { Link } from '`react-router-dom`';
 
 //import logo
 import Logo from '../assets/logo (2).png';
